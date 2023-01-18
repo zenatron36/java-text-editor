@@ -31,7 +31,7 @@ public class TextEditor extends JFrame {
         saveItem.addActionListener(new SaveListener());
         fileMenu.add(saveItem);
 
-        JMenuItem exitItem = new JMenuItem("Exit");
+        JMenuItem exitItem = new JMenuItem("Quit");
         exitItem.addActionListener(new ExitListener());
         fileMenu.add(exitItem);
 
