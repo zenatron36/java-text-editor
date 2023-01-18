@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import java.io.*;
-
+//Now this is going to be epic.
 public class TextEditor extends JFrame {
 
     private JTextArea textArea;
